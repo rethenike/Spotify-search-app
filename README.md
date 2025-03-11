@@ -78,12 +78,8 @@ https://your-username.github.io/your-repo-name/
 3. View the list of albums displayed.
 4. Click on an album to open it in Spotify.
 
-## License
-This project is licensed under the **MIT License**.
-
 ## Contact
 For any issues or questions, feel free to reach out!
+philipp.h.tsang@gmail.com
 
----
-### **Happy Coding! 🎵🚀**
 
