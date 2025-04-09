@@ -2,6 +2,9 @@
 
 This is a React-based web application that allows users to search for their favorite artists on Spotify and view their albums. The app uses the **Spotify Web API** for fetching artist data and album information.
 
+## Live Demo
+https://rethenike.github.io/Spotify-search-app/
+
 ## Features
 - Search for artists using the Spotify API
 - Display a list of albums for the searched artist
